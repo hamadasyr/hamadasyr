@@ -30,6 +30,7 @@ I'm a self-driven developer with a strong foundation in both frontend and backen
 - **PyQt5**
 - **Kivy**
 - **Tiknetr**
+- **Playwright**
 
 ### Bot Development
 - **Telebot**
